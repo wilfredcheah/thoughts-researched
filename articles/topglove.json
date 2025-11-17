@@ -1,0 +1,18 @@
+{
+  "title": "Studying Compounders: A Deep Look at Company X",
+  "date": "2025-11-10",
+  "tags": ["compounders", "unit economics", "valuation"],
+  "summary": "Exploring durable moats, reinvestment runways, and return on incremental capital in Company X.",
+  "content": [
+    { "type": "p", "text": "This is an independent research note. It focuses on understanding drivers rather than predicting short-term price moves." },
+    { "type": "h3", "text": "Business overview" },
+    { "type": "p", "text": "Company X operates a multi-sided platform serving SMEs across Southeast Asia, with network effects that improve unit economics at scale." },
+    { "type": "blockquote", "text": "In the short run the market is a voting machine, but in the long run it is a weighing machine." },
+    { "type": "h3", "text": "Moat and durability" },
+    { "type": "p", "text": "Switching costs rise as integrations deepen; competitors can mimic features but not customer embeddedness." },
+    { "type": "h3", "text": "Capital allocation" },
+    { "type": "list", "ordered": false, "items": ["Organic reinvestment > acquisitions", "Buybacks only below intrinsic value", "Avoid diworsification"] },
+    { "type": "hr" },
+    { "type": "p", "text": "Conclusion: The thesis depends on maintaining high ROIC while expanding the reinvestment runway." }
+  ]
+}
