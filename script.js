@@ -20,8 +20,8 @@ function formatDate(iso) {
 
 // Data source: list of articles (add your files here)
 const ARTICLE_INDEX = [
-  { slug: 'sample-article', file: 'articles/sample-article.json' },
-  { slug: 'another-article', file: 'articles/another-article.json' }
+  { slug: 'top-glove', file: 'articles/topglove.json' },
+  { slug: 'another-company', file: 'articles/another-company.json' }
 ];
 
 // Homepage & archive rendering
@@ -115,4 +115,5 @@ const ARTICLE_INDEX = [
       console.error('Error loading article', err);
       byId('content').textContent = 'Article could not be loaded.';
     });
+
 })();
