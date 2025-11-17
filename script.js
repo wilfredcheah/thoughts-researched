@@ -20,8 +20,8 @@ function formatDate(iso) {
 
 // Data source: list of articles (add your files here)
 const ARTICLE_INDEX = [
-  { slug: 'top-glove', file: 'articles/topglove.json' },
-  { slug: 'another-company', file: 'articles/anothercompany.json' }
+  { slug: 'topglove', file: 'articles/topglove.json' },
+  { slug: 'anothercompany', file: 'articles/anothercompany.json' }
 ];
 
 // Homepage & archive rendering
@@ -117,4 +117,5 @@ const ARTICLE_INDEX = [
     });
 
 })();
+
 
