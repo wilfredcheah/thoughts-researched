@@ -13,7 +13,7 @@ function formatDate(iso) {
   if (aboutLink) {
     aboutLink.addEventListener('click', (e) => {
       e.preventDefault();
-      alert("Thoughts Researched is a personal research site. Opinions only, not advice.");
+      alert("This is a personal research site. Opinions only, not advice.");
     });
   }
 })();
@@ -117,5 +117,6 @@ const ARTICLE_INDEX = [
     });
 
 })();
+
 
 
