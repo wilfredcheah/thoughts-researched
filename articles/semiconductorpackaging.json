@@ -13,11 +13,18 @@
     { "type": "p", "text": "Semiconductor packaging refers to the manufacturing and assembly of packaging components surrounding a silicon die (Integrated Circuit, or IC for short) that enables its use in circuitry while ensuring that the IC’s performance and reliability are not compromised." },
     { "type": "p", "text": "The package’s core purpose is to act as an electrical interface between the IC and the outer circuitry, as it can adapt to different sizes and scales of the metal connections located on the IC. This allows for better signal transmission quality between the IC and the outer circuitry (the PCB). Additionally, the package serves as a physical protective layer for the IC, with the die typically being encapsulated by either epoxy or some form of metal lid." },
     { "type": "p", "text": "Packages are also used to dissipate heat, given that complex ICs produce a butt-load of heat that can damage the die. Typically, within the package itself, a thermal interface material is deposited above the die, while the package itself is made out of a thermally conductive encapsulation layer to allow for efficient heat dissipation." },
+    {
+      "type": "image",
+      "src": "assets/sp.jpg",
+      "alt": "semiconductor packaging overview",
+      "caption": "A high level overview of a semiconductor package."
+    },
     { "type": "p", "text": "As packaging technology evolved, complex architectures such as multi-die packages have been deployed to increase both the compute and functionality of the final product. Advanced packaging techniques allow for the flexibility in connecting multiple ICs to the outer circuitry." },
     { "type": "h3", "text": "How many types of packaging are there?" },
     { "type": "p", "text": "It is important to distinguish the two main types of packaging that we will discuss here. The first relates to the different techniques used to package the silicon die to the interposer, and the second involves the different forms that a packaging solution can take." }
   ]
 }
+
 
 
 
