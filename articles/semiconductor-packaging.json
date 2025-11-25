@@ -1,0 +1,20 @@
+{
+  "title": "Advanced Semiconductor Packaging: Where Do Malaysian Firms Stand?",
+  "date": "2025-11-26",
+  "tags": ["semiconductor"],
+  "summary": "Exploring durable moats, reinvestment runways, and return on incremental capital in Company X.",
+  "content": [
+    { "type": "p", "text": "The semiconductor industry had always fascinated me with its many technical complexities. In my opinion, the technology, i.e., process knowledge, intellectual properties surrounding semiconductors is the most important human invention in the modern era." },
+    { "type": "p", "text": "We are bombarded by news outlets and FinTwit hyping up firms like NVIDIA and Broadcom, fabless design firms which own and design some of the most advanced IPs within the industry, supplying key products like the GPU and ASICs which form the backbone of the computing era, as well as humanity’s venture into AGI." },
+    { "type": "p", "text": "However, an area that fascinates me more is with regard to the manufacturing process of semiconductors themselves. We hear of firms like TSMC dominating the wafer fabrication segment, but there is also an entire labyrinth of less well-known firms involved in the most cutting-edge solutions that enable an engineering process which brings these semiconductors to life." },
+    { "type": "p", "text": "That area is in relation to semiconductor packaging, a less well-known part of the semiconductor value chain due to its sometimes-archaic terms and complexity." },
+    { "type": "h3", "text": "What is semiconductor packaging?" },
+    { "type": "p", "text": "First, let’s break down semiconductor packaging." },
+    { "type": "p", "text": "Semiconductor packaging refers to the manufacturing and assembly of packaging components surrounding a silicon die (Integrated Circuit, or IC for short) that enables its use in circuitry while ensuring that the IC’s performance and reliability are not compromised." },
+    { "type": "p", "text": "The package’s core purpose is to act as an electrical interface between the IC and the outer circuitry, as it can adapt to different sizes and scales of the metal connections located on the IC. This allows for better signal transmission quality between the IC and the outer circuitry (the PCB). Additionally, the package serves as a physical protective layer for the IC, with the die typically being encapsulated by either epoxy or some form of metal lid." },
+    { "type": "p", "text": "Packages are also used to dissipate heat, given that complex ICs produce a butt-load of heat that can damage the die. Typically, within the package itself, a thermal interface material is deposited above the die, while the package itself is made out of a thermally conductive encapsulation layer to allow for efficient heat dissipation." },
+    { "type": "p", "text": "As packaging technology evolved, complex architectures such as multi-die packages have been deployed to increase both the compute and functionality of the final product. Advanced packaging techniques allow for the flexibility in connecting multiple ICs to the outer circuitry." },
+    { "type": "h3", "text": "How many types of packaging are there?" },
+    { "type": "p", "text": "It is important to distinguish the two main types of packaging that we will discuss here. The first relates to the different techniques used to package the silicon die to the interposer, and the second involves the different forms that a packaging solution can take." },
+  ]
+}
