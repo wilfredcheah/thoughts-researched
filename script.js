@@ -20,7 +20,7 @@ function formatDate(iso) {
 
 // Data source: list of articles (add your files here)
 const ARTICLE_INDEX = [
-  { slug: 'semiconductorpackaging', file: 'articles/semiconductor-packaging.json' },
+  { slug: 'semiconductor-packaging', file: 'articles/semiconductor-packaging.json' },
   { slug: 'topglove', file: 'articles/topglove.json' },
   { slug: 'anothercompany', file: 'articles/anothercompany.json' }
 ];
@@ -118,6 +118,7 @@ const ARTICLE_INDEX = [
     });
 
 })();
+
 
 
 
