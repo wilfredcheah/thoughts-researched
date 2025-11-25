@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   color: #111;
-  background: #fffef8; /* Slight off-white for a paper feel */
+  background: #ffffff; /* Slight off-white for a paper feel */
   font-family: Georgia, "Times New Roman", Times, serif;
   line-height: 1.6;
 }
@@ -63,3 +63,4 @@ a.no-underline { text-decoration: none; color: inherit; }
   .site-header .subtitle, .more-links, .article-nav { display: none; }
   body { background: #fff; }
 }
+
