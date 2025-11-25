@@ -110,26 +110,26 @@ const ARTICLE_INDEX = [
         } else if (block.type === 'hr') {
           contentEl.appendChild(document.createElement('hr'));
         } else if (block.type === 'image') {
-					  const figure = document.createElement('figure');
+			const figure = document.createElement('figure');
 					
-					  const img = document.createElement('img');
-					  img.src = block.src;
-					  img.alt = block.alt || '';
-					  img.style.maxWidth = '100%'; // responsive
-					  img.style.height = 'auto';
+			const img = document.createElement('img');
+			img.src = block.src;
+			img.alt = block.alt || '';
+			img.style.maxWidth = '100%'; // responsive
+			img.style.height = 'auto';
 					
-					  figure.appendChild(img);
+			figure.appendChild(img);
 					
-					  if (block.caption) {
-					    const cap = document.createElement('figcaption');
-					    cap.textContent = block.caption;
-					    cap.style.fontSize = '0.9rem';
-					    cap.style.color = '#555';
-					    figure.appendChild(cap);
-					  }
+			if (block.caption) {
+				const cap = document.createElement('figcaption');
+				cap.textContent = block.caption;
+				cap.style.fontSize = '0.9rem';
+				cap.style.color = '#555';
+				figure.appendChild(cap);
+			}
 					
-					  contentEl.appendChild(figure);
-					}
+			contentEl.appendChild(figure);
+		  }
         }
       });
     })
@@ -139,6 +139,7 @@ const ARTICLE_INDEX = [
     });
 
 })();
+
 
 
 
