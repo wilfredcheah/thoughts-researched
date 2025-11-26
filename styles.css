@@ -64,3 +64,20 @@ a.no-underline { text-decoration: none; color: inherit; }
   body { background: #fff; }
 }
 
+/* Image */
+
+figure {
+  margin: 16px 0;
+  text-align: center;
+}
+figcaption {
+  margin-top: 6px;
+  font-style: italic;
+  color: #555;
+}
+img {
+  border: 1px solid #ccc;
+  padding: 4px;
+  background: #fff;
+}
+
