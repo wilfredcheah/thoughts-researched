@@ -21,9 +21,12 @@
     },
     { "type": "p", "text": "As packaging technology evolved, complex architectures such as multi-die packages have been deployed to increase both the compute and functionality of the final product. Advanced packaging techniques allow for the flexibility in connecting multiple ICs to the outer circuitry." },
     { "type": "h3", "text": "How many types of packaging are there?" },
-    { "type": "p", "text": "It is important to distinguish the two main types of packaging that we will discuss here. The first relates to the different techniques used to package the silicon die to the interposer, and the second involves the different forms that a packaging solution can take." }
+    { "type": "p", "text": "The first type: die-to-interposer packaging techniques" },
+    { "type": "p", "text": "During fabrication, chemical and laser etchings expose electrical connections on top of the die, and these connections can be used to connect to the interposer via two standard means:" },
+    { "type": "p", "text": "Wire bond: ultra-thin gold wires are connected to bond pads located on the die to metal traces of the interposer. >80% of ICs use wire bonds." },
   ]
 }
+
 
 
 
